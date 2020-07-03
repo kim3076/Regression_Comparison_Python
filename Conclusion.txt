@@ -7,4 +7,4 @@ Random forest regression : 0.9628
 Support vector regression : 0.9479
 
 The closer the number is to 1, the better the formula.
-Therefore, random forest regression (=0.9628) is the best regression.
+Therefore, random forest regression (=0.9628) is the best regression for this data.

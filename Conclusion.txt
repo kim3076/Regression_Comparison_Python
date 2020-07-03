@@ -1,0 +1,10 @@
+-------R-square value comparison-------
+ 
+Decision tree regression : 0.9226
+Multiple linear regression : 0.9322
+Polynomial regression : 0.9447
+Random forest regression : 0.9628
+Support vector regression : 0.9479
+
+The closer the number is to 1, the better the formula.
+Therefore, random forest regression (=0.9628) is the best regression.
